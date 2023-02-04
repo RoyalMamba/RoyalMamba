@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Machine Learning NoSQL MongoDB(Data Science stuff)**
+- 🌱 I’m currently learning **ML/DL/NLP**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -15,13 +15,13 @@
 
 ## 🚀 Languages and Tools:
 
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
+[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
+[![MySql Badge](https://img.shields.io/badge/-Mysql-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
 [![C Badge](https://img.shields.io/badge/-C-61DBFB?style=for-the-badge&labelColor=black&logo=c&logoColor=61DBFB)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
 [![Java Badge](https://img.shields.io/badge/-Java-e535ab?style=for-the-badge&labelColor=black&logo=java&logoColor=e535ab)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-3C873A?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3C873A)](#)
-[![MySql Badge](https://img.shields.io/badge/-Mysql-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
-[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
 [![Css3 Badge](https://img.shields.io/badge/-Css3-cccccc?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
 [![Html5 Badge](https://img.shields.io/badge/-Html5-FF5349?style=for-the-badge&labelColor=black&logo=html5&logoColor=FF5349)](#)
 <br/>
