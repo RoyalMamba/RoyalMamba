@@ -94,6 +94,18 @@
 
   <hr>
 
+  <section class="container languages-used">
+    <h2 align="center">Most Used Languages</h2>
+    <p align="center">
+      <a href="#">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royalmamba&layout=compact&&show_icons=true&theme=radical"
+          alt="Most Used Languages">
+      </a>
+    </p>
+  </section>
+
+  <hr>
+
   <section class="container projects">
     <h2 align="center">Projects</h2>
     <ul>
