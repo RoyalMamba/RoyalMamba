@@ -10,7 +10,9 @@
 <body>
   <!-- Your Profile Header -->
   <p align="center">
-    <img src="https://i.imgur.com/iXuL1HG.png" alt="Profile Header" width="100%" height="auto">
+    <a href="#">
+      <img src="https://i.imgur.com/iXuL1HG.png" alt="Profile Header" width="100%" height="auto">
+    </a>
   </p>
 
   <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
