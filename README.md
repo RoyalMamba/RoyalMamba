@@ -1,16 +1,21 @@
-## Hi there 👋
+# Saurabh Yadav
 
-<!--
-**RoyalMamba/RoyalMamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Professional Work Timeline
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ 2023–2025
+- **RAG & Agents**
+- **Real-Time Inference / Streaming** (Lightweight Backends)
+- **ASR** 
+- **Search Optimization** (Tree-Based Reasoning)
+
+---
+### Personal Goals
+- Deepen understanding of GPU architecture & fundamentals.
+
+---
+
+## Connect
+- LinkedIn: [Saurabh Yadav](https://www.linkedin.com/in/saurabh-r-yadav/)
+- Email: [ysaurabh059@gmail.com](mailto:ysaurabh059@gmail.com)
